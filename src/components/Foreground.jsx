@@ -1,6 +1,6 @@
 
 import { useRef } from "react";
-import Card from "./card";
+import Card from "../components/Card";
 
 function Foreground() {
 
